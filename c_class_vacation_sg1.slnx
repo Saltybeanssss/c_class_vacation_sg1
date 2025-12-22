@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="c_class_vacation_sg1/c_class_vacation_sg1.vcxproj" Id="9ab5f89a-89a2-4834-aef8-f5c1523aec17" />
+</Solution>
