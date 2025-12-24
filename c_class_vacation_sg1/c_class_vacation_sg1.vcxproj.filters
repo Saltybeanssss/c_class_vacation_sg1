@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\day1">
       <UniqueIdentifier>{93405b44-2b33-4004-ab40-554f948c2a9e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day3">
+      <UniqueIdentifier>{5f2fd576-08eb-4ce0-9cd2-af7288d34fb8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="변수.c">
@@ -50,6 +53,18 @@
     </ClCompile>
     <ClCompile Include="상수.c">
       <Filter>소스 파일\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="언사인드.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="형식문자와숫자.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자.c">
+      <Filter>소스 파일\day3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
