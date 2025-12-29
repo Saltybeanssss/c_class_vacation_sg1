@@ -88,7 +88,7 @@ int main(void)
 	//문제
 	//국어 68, 영어 75, 수학 88, 사회 60, 과학 96
 	//실수형으로 소수점 한자리까지 평균 출력하기
-
+	
 	int a = 68;
 	int b = 75;
 	int c = 88;
@@ -101,4 +101,8 @@ int main(void)
 	float avg = (float)total / 5;
 
 	printf("짱구의 평균은 %0.1f점입니다.", avg);
+	
+
+
+	return 0;
 }
