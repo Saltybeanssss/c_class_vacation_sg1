@@ -44,7 +44,7 @@ int main(void)
 	printf("신분증 유무를 입력해주세요(1 or 0) : ");
 	scanf_s("%d", &c);
 
-	if (b >= 15 && b <= 18 || c) {
+	if (b >= 15 && b <= 18 || c == 1) {
 		printf("조건만족");
 	}*/
 
@@ -59,7 +59,7 @@ int main(void)
 
 	//문제 3: 좋아하는 숫자를 입력받아 10이상인지 이하인지 확인하기
 
-	int a;
+	/*int a;
 	scanf_s("%d", &a);
 
 	if (a >= 10) {
@@ -67,7 +67,7 @@ int main(void)
 	}
 	else {
 		printf("10이하의 수입니다");
-	}
+	}*/
 
 	return 0;
 }

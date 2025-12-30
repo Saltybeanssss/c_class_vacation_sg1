@@ -24,9 +24,9 @@ int main(void)
 	printf("5 | 7 = %d\n", bitFive | bitThree);
 	printf("5 ^ 7 = %d\n", bitFive ^ bitThree);
 	printf("~%d = %d\n", bitFive, ~bitFive);
-	// 00000101
+	// 00000101 = 5
 	// 111111010(not 연산자로 인한 반전)
-	// 10000100 => 10000101(2의 보수로 인해 반전 후 +1) = -5 +1 = -6
+	// 10000101(-5) => 2의 보수로 인해 반전 후 +1 = -5 (+1) = -6
 
 
 	return 0;
