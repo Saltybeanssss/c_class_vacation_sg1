@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\day7">
       <UniqueIdentifier>{fd177316-2a29-467f-9007-f76232ea388b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day8">
+      <UniqueIdentifier>{3137e14a-02cc-4730-95d5-abdaf53d2c7a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="변수.c">
@@ -128,6 +131,21 @@
     </ClCompile>
     <ClCompile Include="난수.c">
       <Filter>소스 파일\day7</Filter>
+    </ClCompile>
+    <ClCompile Include="아이템뽑기.c">
+      <Filter>소스 파일\day8</Filter>
+    </ClCompile>
+    <ClCompile Include="배열.c">
+      <Filter>소스 파일\day8</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열배열.c">
+      <Filter>소스 파일\day8</Filter>
+    </ClCompile>
+    <ClCompile Include="문자입력받기.c">
+      <Filter>소스 파일\day8</Filter>
+    </ClCompile>
+    <ClCompile Include="랜덤직업부여권.c">
+      <Filter>소스 파일\day8</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
